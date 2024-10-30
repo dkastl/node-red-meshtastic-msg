@@ -14,7 +14,7 @@
     "import-sync": "2.x"
   },
   "engines": {
-    "node": ">=20.x"
+    "node": ">=18.x"
   },
   "repository": {
     "type": "git",
